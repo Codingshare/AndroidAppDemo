@@ -19,7 +19,6 @@
         android:layout_width="125dp"
         android:layout_height="75dp"
         android:text="Map"
-        android:onClick="btnMap"
-        />
+        android:onClick="btnMap" />
 
 </android.support.constraint.ConstraintLayout>
